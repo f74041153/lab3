@@ -23,5 +23,5 @@ v1/v2 are different
 insertion_sort():unknown seconds
 v1/v2 are different
 explain:
-insertion sort:每次和sorted數比較,最後次數n(n-1)~n^2
+insertion sort:每次和sorted數比較,最多加總次數n(n-1)/2~n^2
 sort():一開始就分成兩部分,再分大小,後排序-->次數減少-->nlogn
